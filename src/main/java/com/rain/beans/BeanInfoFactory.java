@@ -1,7 +1,5 @@
 package com.rain.beans;
 
-import org.springframework.aop.IntroductionAdvisor;
-import org.springframework.beans.CachedIntrospectionResults;
 
 import java.beans.BeanInfo;
 import java.beans.IntrospectionException;
